@@ -14,8 +14,27 @@ header {
   font-weight: bold;
 }
 
-
+img {
+  margin-right: 100px;
+}
 
 .container-fluid {
   margin: 30px;
+}
+
+.list-group-item {
+  font-size: 20px;
+}
+
+.img-fluid > header{
+  width: 100%;
+  height: auto;
+}
+
+.lead {
+  font-size: 25px;
+}
+
+section {
+  width: 100%;
 }

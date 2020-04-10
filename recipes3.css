@@ -4,9 +4,7 @@
   }
 }
 
-body {
-  margin-top: 20px;
-}
+
 
 header {
   text-align: left;
@@ -19,5 +17,5 @@ img {
 }
 
 .container-fluid {
-  margin: 30px;
+  margin: 50px;
 }

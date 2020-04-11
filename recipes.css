@@ -1,17 +1,16 @@
-@media(max-width: 499px) {
-  body {
 
-  }
+
+.center {
+  text-align: center;
 }
 
-body {
-  margin-top: 20px;
+.mainHeading {
+  text-align: center;
 }
 
 header {
-  text-align: left;
-  font-size: 20px;
-  font-weight: bold;
+  margin-left: 170px;
+  margin-top: px;
 }
 
 img {

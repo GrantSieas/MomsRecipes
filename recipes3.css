@@ -1,12 +1,11 @@
-@media(max-width: 499px) {
-  body {
+.center {
+  text-align: center;
+}
 
+.mainHeading {
+    text-align: center;
   }
-}
 
-body {
-  margin-top: 20px;
-}
 
 header {
   text-align: left;
@@ -18,9 +17,8 @@ img {
   margin-right: 100px;
 }
 
-.container-fluid {
-  margin: 30px;
-}
+
+
 
 .list-group-item {
   font-size: 20px;
@@ -30,8 +28,4 @@ img {
 
 .lead {
   font-size: 25px;
-}
-
-section {
-  width: 100%;
 }

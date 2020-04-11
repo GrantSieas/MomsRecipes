@@ -1,12 +1,11 @@
-@media(max-width: 499px) {
-  body {
+.center {
+  text-align: center;
+}
 
+.mainHeading {
+    text-align: center;
   }
-}
 
-body {
-  
-}
 
 header {
   text-align: left;

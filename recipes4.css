@@ -1,0 +1,31 @@
+.center {
+  text-align: center;
+}
+
+.mainHeading {
+    text-align: center;
+  }
+
+
+header {
+  text-align: left;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+img {
+  margin-right: 100px;
+}
+
+
+
+
+.list-group-item {
+  font-size: 20px;
+}
+
+
+
+.lead {
+  font-size: 25px;
+}

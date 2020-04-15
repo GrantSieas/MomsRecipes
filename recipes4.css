@@ -29,3 +29,7 @@ img {
 .lead {
   font-size: 25px;
 }
+
+button {
+  width: 100%;
+}
